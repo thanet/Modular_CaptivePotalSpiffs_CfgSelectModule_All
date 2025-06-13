@@ -1,0 +1,2 @@
+# Modular_CaptivePotalSpiffs_CfgSelectModule_All
+Wifi Telegram  Webhost
